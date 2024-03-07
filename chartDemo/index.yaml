@@ -3,12 +3,12 @@ entries:
   chartDemo:
   - apiVersion: v2
     appVersion: latest
-    created: "2024-03-07T17:57:05.7961193+01:00"
-    description: A Helm chart for Kubernetes
-    digest: abad82b9599e86c6745fbfa5a164769693f542b366bbcab77d5f1fb221113a17
+    created: "2024-03-07T18:06:59.1002242+01:00"
+    description: A Helm demo chart for Flask App
+    digest: 2d0df6bc692f917212c42fe64efb784bcb7491d60e127cde3bf8de6aa45e25a4
     name: chartDemo
     type: application
     urls:
     - charts/chartDemo-0.1.0.tgz
     version: 0.1.0
-generated: "2024-03-07T17:57:05.7941207+01:00"
+generated: "2024-03-07T18:06:59.0982889+01:00"
